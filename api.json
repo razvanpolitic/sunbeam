@@ -1,0 +1,49 @@
+{
+    "billlist": [
+        {
+            "image": "img/car1.png",
+            "name": "Volkswagen Tiguan",
+            "type": "SUV",
+            "category": "Standard",
+            "persons": 5,
+            "suitcases": 4,
+            "price": 1800
+          },
+          {
+            "image": "img/car2.png",
+            "name": "Volkswagen Golf",
+            "type": "Hatchback",
+            "category": "Standard",
+            "persons": 4,
+            "suitcases": 3,
+            "price": 650
+          },
+          {
+            "image": "img/car3.png",
+            "name": "Toyota GR 86",
+            "type": "Sport",
+            "category": "Standard",
+            "persons": 4,
+            "suitcases": 3,
+            "price": 1050
+          },
+          {
+            "image": "img/car4.png",
+            "name": "Ford Tranzit",
+            "type": "Van",
+            "category": "Van",
+            "persons": 9,
+            "suitcases": 6,
+            "price": 1700
+          },
+          {
+            "image": "img/car5.png",
+            "name": "Cadillac",
+            "type": "Limousine",
+            "category": "Limousine",
+            "persons": 9,
+            "suitcases": 5,
+            "price": 2400
+          }
+    ]
+}
